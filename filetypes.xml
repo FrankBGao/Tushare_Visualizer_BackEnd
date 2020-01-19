@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="fp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
